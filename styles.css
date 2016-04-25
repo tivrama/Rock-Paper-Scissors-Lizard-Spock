@@ -1,0 +1,21 @@
+.nameOfGame {
+    /*text-align: center;	*/
+}
+
+
+.form-inline {
+	width: 400px;
+    height: 120px;
+    border: solid 2px black;
+    text-align: center;
+    background-color: #3FB2E4
+}
+
+.instructions {
+	text-align: center;
+}
+
+.scores {
+	margin: 10px;
+}
+
